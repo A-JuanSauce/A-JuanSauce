@@ -2,7 +2,7 @@
 
 Welcome to my GitHub
 
-🔭 I'm currently expanding my knowledge in cybersecurity and A.I
+🔭 I'm currently expanding my knowledge of cybersecurity and A.I
 <!--
 **A-JuanSauce/A-JuanSauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
